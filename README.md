@@ -17,6 +17,9 @@ Este repositorio contiene una colección de scripts PL/pgSQL creados por mi. Inc
   
 **encuesta/**
 - CREATE, INSERT, queries
+
+**grammys/**
+- CREATE, INSERT, queries
   
 **starwars/**
 - CREATE, INSERT, queries
