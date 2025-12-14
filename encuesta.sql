@@ -71,7 +71,7 @@ HAVING MIN(r.respuesta) = 5;
 SELECT p.codpre, p.nombre 
 FROM Preguntas p 
 LEFT JOIN EncPre ep ON ep.codpre = p.codpre 
-WHERE e.codenc IS NULL;
+WHERE ep.codenc IS NULL;
 
 -- Encuestas que aun no han sido respondidas por nadie
 SELECT e.codenc, e.nomenc 
