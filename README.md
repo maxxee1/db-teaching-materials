@@ -6,32 +6,16 @@ Este repositorio contiene una colección de scripts PL/pgSQL creados por mi. Inc
 > [!NOTE]
 > Los ejercicios están ordenados por dificultad creciente según mi recomendación, pero siéntete libre de explorar el repositorio en el orden que prefieras.
 
-**first-db/**
-- CREATE, INSERT, queries
-  
-**clientes/**
-- CREATE, INSERT, queries
-  
-**orquesta/**
-- CREATE, INSERT
-  
-**encuesta/**
-- CREATE, INSERT, queries
 
-**grammys/**
-- CREATE, INSERT, queries
-  
-**starwars/**
-- CREATE, INSERT, queries
-  
-**del-sur/**
-- CREATE, INSERT, procedures, triggers
-  
-**redsocial/**
-- CREATE, INSERT, queries, procedures, triggers
-  
-**delivery/**
-- CREATE, INSERT, queries, procedures, triggers
-  
-**tienda/**
-- CREATE, INSERT, procedures, triggers
+| Carpeta | Operaciones SQL Incluidas | Nivel |
+| :--- | :--- | :--- |
+| **first-db** | `CREATE`, `INSERT`, `queries` | Básico |
+| **clientes** | `CREATE`, `INSERT`, `queries` | Básico/Medio |
+| **orquesta** | `CREATE`, `INSERT` | Básico |
+| **encuesta** | `CREATE`, `INSERT`, `queries` | Básico/Medio |
+| **grammys** | `CREATE`, `INSERT`, `queries` | Medio |
+| **starwars** | `CREATE`, `INSERT`, `queries` | Medio |
+| **del-sur** | `CREATE`, `INSERT`, `procedures`, `triggers` | Medio/Avanzado |
+| **redsocial** | `CREATE`, `INSERT`, `queries`, `procedures`, `triggers` | Avanzado |
+| **delivery** | `CREATE`, `INSERT`, `queries`, `procedures`, `triggers` | Avanzado |
+| **tienda** | `CREATE`, `INSERT`, `procedures`, `triggers` | Avanzado |
