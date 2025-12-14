@@ -8,24 +8,27 @@ Este repositorio contiene una colección de scripts PL/pgSQL creados por mi. Inc
 
 **first-db/**
 - CREATE, INSERT, queries
-
+  
 **clientes/**
 - CREATE, INSERT, queries
-
+  
 **orquesta/**
 - CREATE, INSERT
-
+  
 **encuesta/**
 - CREATE, INSERT, queries
-
+  
 **starwars/**
 - CREATE, INSERT, queries
-
+  
 **del-sur/**
 - CREATE, INSERT, procedures, triggers
-
+  
 **redsocial/**
 - CREATE, INSERT, queries, procedures, triggers
-
+  
 **delivery/**
 - CREATE, INSERT, queries, procedures, triggers
+  
+**tienda/**
+- CREATE, INSERT, procedures, triggers
