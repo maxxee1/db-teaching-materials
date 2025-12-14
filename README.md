@@ -1,7 +1,6 @@
 # AyudantiaDB-2025
  
-Este repositorio contiene una colección de scripts SQL y PL/pgSQL organizados por temas y funcionalidades, creados con fines de aprendizaje y práctica de diseño de bases de datos, consultas complejas, procedimientos almacenados, triggers y otras características avanzadas de PostgreSQL.
-
+Este repositorio contiene una colección de scripts PL/pgSQL creados por mi. Incluye laboratorios diseñados para evaluar conocimientos de los estudiantes, material adicional creado para enseñar conceptos clave, y ejercicios de práctica personal, abarcando diseño de bases de datos, consultas complejas, procedimientos almacenados, triggers y otras características avanzadas de PostgreSQL.
 ## Estructura del Repositorio
 
 > [!NOTE]
